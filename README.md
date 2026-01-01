@@ -51,6 +51,12 @@ You can download the dataset from Kaggle:
 🔗 Fake and Real News Dataset  
 https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset
 
+Fake-news-detection-ml/  
+│  
+├── data/  
+│ ├── Fake.csv  
+│ └── True.csv  
+
 ### Steps after download:
 1. Download `Fake.csv` and `True.csv`
 2. Create a folder named `data/` in the project root
