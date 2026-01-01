@@ -117,3 +117,7 @@ streamlit run ui.py
 
 `http://localhost:8501`
 Paste a news article into the input box and click Predict to view the result.
+
+### Screenshorts:
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/0ffe1575-aef9-486e-bb4d-43ba02ec450b" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/835c3cff-f9dd-46ba-9071-6ac97fc95fee" />
