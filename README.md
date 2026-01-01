@@ -39,7 +39,7 @@ Source: Kaggle Fake News Dataset
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/fake-news-detection-ml.git
+git clone https://github.com/DeerajVanaparthi/fake-news-detection-ml.git
 cd fake-news-detection-ml
 ```
 ## 📂 Dataset
